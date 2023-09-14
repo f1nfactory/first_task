@@ -7,6 +7,6 @@
 
 
 I'm a 18 y.o   
-* Research interests: Data Science, Molecular Simuation 🧬
-* My courses: Informatics, Theory of Electrical Circuits, Computing Systems Theory, Tomography 👨🏼‍🏫
+* Research interests: Data Science
+* My hobbies: cs go, snowboarding, programmer 
   
